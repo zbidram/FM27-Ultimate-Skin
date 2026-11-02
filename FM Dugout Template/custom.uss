@@ -1,0 +1,4 @@
+/* Optional local overrides, loaded last by main.uss.
+ * Edit, save, then reload the skin.
+ * Use shared theme tokens and preserve game states such as read/unread and disabled.
+ */
